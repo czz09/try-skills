@@ -2,6 +2,8 @@
 
 ## v0.1.0 (2026-07-03)
 
+[GitHub Release →](https://github.com/chuaitry-edu/try-skills/releases/tag/v0.1.0)
+
 ### 🎉 初始发布
 
 6 个 try- skill 首次发布：
