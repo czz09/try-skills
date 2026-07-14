@@ -1,6 +1,6 @@
 ---
 description: try-stretch - AI学习诊断工具
-globs: []
+# globs: 移除以在所有页面生效
 ---
 
 # try-stretch：拉伸区定位器
@@ -8,4 +8,4 @@ globs: []
 > **「试试不亏」是拉伸区。「做完只想躺着」是恐慌区。没有第三种。**
 > **你觉得太难的时候，不是你需要更努力——是你需要退一步。**
 
-详见 Hermes 版完整 SKILL.md。
+安装：将此文件放入 .cursor/rules/ 目录。完整版见 Hermes 目录。

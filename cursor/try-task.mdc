@@ -1,6 +1,6 @@
 ---
 description: try-task - AI学习诊断工具
-globs: []
+# globs: 移除以在所有页面生效
 ---
 
 # try-task：目标→每日任务分解器
@@ -8,4 +8,4 @@ globs: []
 > **一天只做一件事。做不完是因为你切得不够小。**
 > **「好像太少了」——是做到位的信号。「又要拼了」——是不做的信号。**
 
-详见 Hermes 版完整 SKILL.md。
+安装：将此文件放入 .cursor/rules/ 目录。完整版见 Hermes 目录。

@@ -1,6 +1,6 @@
 ---
 description: try-review - AI学习诊断工具
-globs: []
+# globs: 移除以在所有页面生效
 ---
 
 # try-review：复习·回忆·复盘
@@ -78,4 +78,4 @@ globs: []
 ## 复习方法
 **{方法名}**
 
-详见 Hermes 版完整 SKILL.md。
+安装：将此文件放入 .cursor/rules/ 目录。完整版见 Hermes 目录。

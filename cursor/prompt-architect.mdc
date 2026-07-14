@@ -1,6 +1,6 @@
 ---
 description: prompt-architect - AI学习诊断工具
-globs: []
+# globs: 移除以在所有页面生效
 ---
 
 # Prompt 架构师
@@ -8,4 +8,4 @@ globs: []
 > **大多数烂Prompt不是缺技巧，是没说清楚「xx的时候怎么办」。**
 > **但更常见的是——你根本不该让AI做这件事。先问你一句：这事AI能干好吗？**
 
-详见 Hermes 版完整 SKILL.md。
+安装：将此文件放入 .cursor/rules/ 目录。完整版见 Hermes 目录。

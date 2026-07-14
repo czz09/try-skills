@@ -1,6 +1,6 @@
 ---
 description: try-plan - AI学习诊断工具
-globs: []
+# globs: 移除以在所有页面生效
 ---
 
 # try-plan：目标可行性检查
@@ -8,4 +8,4 @@ globs: []
 > **你估算不准不是因为信息不够，是你还没开始做。**
 > **定不下来时长的目标，是你根本没想清楚要什么。**
 
-详见 Hermes 版完整 SKILL.md。
+安装：将此文件放入 .cursor/rules/ 目录。完整版见 Hermes 目录。
